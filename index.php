@@ -1,25 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Millieu Advies Twente</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
-<style>
-
-/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 700px) {
-  .row, .navbar {   
-    flex-direction: column;
-  }
-}
-</style>
 </head>
 <body>
 
 <!-- Header -->
 <div class="header">
-  <h1>My Website</h1>
+  <h1>header</h1>
   <p>With a <b>flexible</b> layout.</p>
 </div>
 
